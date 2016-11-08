@@ -11,8 +11,8 @@ public class MyWurzel {
 		if (result == n) {
 			return "Die Wurzel aus " + n + " ist " + sqr;
 		} else {
-			return "Keine Wurzel für " + n + " gefunden. Die nächst größere Zahl mit einer "
-					+ "Wurzel in den natürlichen Zahlen ist " + result + ". Die Wurzel ist " + sqr;
+			return "Keine Wurzel fï¿½r " + n + " gefunden. Die nï¿½chst grï¿½ï¿½ere Zahl mit einer "
+					+ "Wurzel in den natï¿½rlichen Zahlen ist " + result + ". Die Wurzel ist " + sqr;
 		}
 	}
 }
